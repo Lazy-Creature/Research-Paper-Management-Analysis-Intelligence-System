@@ -171,7 +171,7 @@ FAISS works at **chunk-level**, not document-level.
 ```bash
 git clone <your-repo-url>
 cd ResearchLLM
-
+```
 
 
 🔮 Planned Extensions
