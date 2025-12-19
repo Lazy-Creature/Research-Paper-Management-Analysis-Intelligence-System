@@ -1,0 +1,12 @@
+streamlit
+pypdf
+pydantic
+langchain
+langchain-community
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+
+
+# Start program: python -m streamlit run app.py
+# Stop: python -m streamlit kill 8503
