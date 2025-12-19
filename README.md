@@ -54,21 +54,8 @@ This system solves these problems by:
 <img width="358" height="505" alt="image" src="https://github.com/user-attachments/assets/71c826b7-e68b-488c-aa0d-a095856806cf" />
 
 
-ResearchLLM/
-│
-├── app.py # Streamlit UI & main orchestrator
-├── requirements.txt # Project dependencies
-│
-├── backend/
-│ ├── models.py # Data schemas (ResearchPaper, PaperSection)
-│ ├── pdf_parser.py # PDF parsing & section extraction
-│ ├── chunking.py # Section-based chunking logic
-│ └── vector_store.py # FAISS indexing & semantic search
-│
-├── data/
-│ └── papers/ # Uploaded PDF files
-│
-└── .venv/ # Python virtual environment (local)
+<img width="547" height="480" alt="image" src="https://github.com/user-attachments/assets/de9f1986-ab7e-4487-84df-ef225fa47ae6" />
+
 
 
 
